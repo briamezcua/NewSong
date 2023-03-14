@@ -32,6 +32,9 @@ live_loop:three do
   f = f + 0.25
 sleep 16.9/4
 end
+a = 1
+f = 0.25
+s = 0
 end
 
 live_loop:one do
